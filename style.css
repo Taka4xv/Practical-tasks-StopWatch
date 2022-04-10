@@ -1,0 +1,26 @@
+body{
+    width:100%;
+    /*background-color:red; */
+}
+.itle{
+    width: 50%;
+    font-size: 6vw;
+}
+main{
+    width:100%;
+}
+#timer{
+    font-size: 38px;
+    text-align: center
+}
+.contorol{
+    text-align: center;
+}
+.button{
+    margin: 15px 17px 0;
+    width:20%;
+    height: 40px;
+}
+.button .disabled{
+    pointer-events:none;
+}
